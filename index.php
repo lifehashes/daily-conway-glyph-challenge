@@ -6,7 +6,7 @@
     <title>Daily Conway Glyph Challenge (v221)</title>
     <link rel="stylesheet" href="styles.css">
     <style>
-        /* Glyph Freshness Grades */
+        /* Glyph Freshness Grades colouring */
         .fresh-2m  { color: #00FF41 !important; text-shadow: 0 0 8px rgba(0, 255, 65, 0.6); font-weight: bold; }
         .fresh-15m { color: #2ecc71 !important; font-weight: bold; }
         .fresh-30m { color: #27ae60 !important; }
